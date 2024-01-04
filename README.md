@@ -12,11 +12,11 @@ $ git clone https://github.com/spobly/jr.git
 2. Change to the directory that you cloned it into and make it an executable
 ```
 $ cd jr
-$ sudo chmod +x jr.sh 
+$ sudo chmod +x jr
 ```
 3. Move it into your system path
 ```
-$ sudo mv jr.sh /usr/local/bin/ 
+$ sudo mv jr /usr/local/bin/ 
 ```
 4. Anywhere you need to compile and run a Java file simply type
 ```
