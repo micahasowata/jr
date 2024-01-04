@@ -1,8 +1,5 @@
 #! /usr/bin/bash
 
-# display the logo
-cat ./logo.txt
-
 # prompt and read file name
 echo "Java file name"
 read filename
