@@ -7,7 +7,7 @@ This is convenience script that squashes compiling and running of `.java` files 
 1. You need to clone this repo into whatever directory you . It contains the ASCII logo and bash script itself.
 
 ```
-git clone https://github.com/spobly/jr.git 
+$ git clone https://github.com/spobly/jr.git 
 ```
 2. Change to the directory that you cloned it into and make it an executable
 ```
